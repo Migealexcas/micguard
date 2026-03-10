@@ -24,7 +24,7 @@ MicGuard is an Android application designed to protect your privacy by monitorin
 ### ⚙️ **Privacy-First Design**
 - No data collection or cloud storage
 - All monitoring happens locally on your device
-- Open source and transparent
+- Open source and trghjansparent
 - Respects your privacy choices
 
 ## How It Works
